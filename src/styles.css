@@ -1,0 +1,35 @@
+body {
+  background-color: lightgrey;
+}
+.App {
+  font-family: "Times New Roman", Times, serif;
+}
+.div-list {
+  width: 85%;
+  background-color: gray;
+}
+#task {
+  width: 99.4%;
+  border: 2px solid black;
+  padding: 2px;
+  background: rgb(105, 229, 233);
+  margin: 8px;
+  margin-left: 0px;
+}
+.list {
+  list-style-type: none;
+  padding-right: 50px;
+}
+form {
+  width: 85%;
+  background: gray;
+  height: 4vh;
+}
+input {
+  background-color: rgb(138, 212, 214);
+  height: 3vh;
+}
+button {
+  float: right;
+  margin-right: 60%;
+}
